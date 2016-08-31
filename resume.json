@@ -1,1 +1,184 @@
-{"basics":{"name":"Baptiste Marchand","label":"","picture":"","email":"baptistemarchand42@gmail.com","phone":"","website":"","summary":"","location":{"address":"","postalCode":"","city":"Paris","countryCode":"FR","region":""},"profiles":[{"url":"https://bitbucket.org/bap","username":"bap","network":"bitbucket"},{"url":"https://github.com/baptistemarchand","username":"baptistemarchand","network":"github"}]},"work":[{"highlights":["C++","Python","Embedded Systems","svn"],"summary":"Designed, Implemented and tested complex embedded software","endDate":"2014-10-01","startDate":"2013-10-01","website":"http://www.imsco-us.com","position":"Software Intern","company":"Zodiac Inflight Innovations"},{"highlights":["C","Unix","git"],"summary":"Taught about 250 students C/C++, Unix, git and assembly basics. Gave lectures and created exams. Worked with a team of 20 other assistants.","endDate":"2012-12-01","startDate":"2012-09-01","website":"http://www.epita.fr/","position":"Teaching Assistant","company":"EPITA"},{"highlights":["C++","Qt","CMake","git"],"summary":"Designed, Implemented and tested complex embedded software","endDate":"2011-12-01","startDate":"2011-08-01","website":"http://www.aldebaran.com/en","position":"Software Intern","company":"Aldebaran Robotics"}],"volunteer":[],"education":[{"courses":["Operating Systems","Data Compression","Embedded Systems"],"gpa":"","endDate":"2013-01-01","startDate":"2008-01-01","studyType":"","area":"France","institution":"EPITA"},{"courses":["Game Programming","Identity Design","Trend Study"],"gpa":"","endDate":"2013-04-01","startDate":"2013-01-01","studyType":"","area":"South Korea","institution":"Konkuk University"},{"courses":[],"gpa":"","endDate":"2007-01-01","startDate":"2006-01-01","studyType":"","area":"Australia","institution":"Ringwood Secondary College"}],"skills":[{"keywords":["C","C++","Ruby","Python","Javascript"],"level":"","name":"Programming Languages"},{"keywords":["CMake","git","svn","QML"],"level":"","name":"Tools"},{"keywords":["OpenGL","Ogre3D","SDL"],"level":"","name":"Libraries/Frameworks"}],"languages":[{"fluency":"Native Speaker","language":"French"},{"fluency":"Fluent","language":"English"}],"interests":[{"name":"Board Games"},{"name":"Surfing"},{"name":"Magic"},{"name":"Demoscene"},{"keywords":["Nepal","Australia","Brasil","Indonesia","South Korea","Tanzania"],"name":"Travels"}],"references":[{"reference":"He's OK I guess...","name":"Jeremy Tran"}]}
+{
+  "basics": {
+    "name": "Baptiste Marchand",
+    "label": "",
+    "picture": "",
+    "email": "baptistemarchand42@gmail.com",
+    "phone": "",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Paris",
+      "countryCode": "FR",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "url": "https://bitbucket.org/bap",
+        "username": "bap",
+        "network": "bitbucket"
+      },
+      {
+        "url": "https://github.com/baptistemarchand",
+        "username": "baptistemarchand",
+        "network": "github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "highlights": [
+        "C++",
+        "Python",
+        "Embedded Systems",
+        "svn"
+      ],
+      "summary": "Designed, Implemented and tested complex embedded software",
+      "endDate": "2014-10-01",
+      "startDate": "2013-10-01",
+      "website": "http://www.imsco-us.com",
+      "position": "Software Intern",
+      "company": "Zodiac Inflight Innovations"
+    },
+    {
+      "highlights": [
+        "C",
+        "Unix",
+        "git"
+      ],
+      "summary": "Taught about 250 students C/C++, Unix, git and assembly basics. Gave lectures and created exams. Worked with a team of 20 other assistants.",
+      "endDate": "2012-12-01",
+      "startDate": "2012-09-01",
+      "website": "http://www.epita.fr/",
+      "position": "Teaching Assistant",
+      "company": "EPITA"
+    },
+    {
+      "highlights": [
+        "C++",
+        "Qt",
+        "CMake",
+        "git"
+      ],
+      "summary": "Designed, Implemented and tested complex embedded software",
+      "endDate": "2011-12-01",
+      "startDate": "2011-08-01",
+      "website": "http://www.aldebaran.com/en",
+      "position": "Software Intern",
+      "company": "Aldebaran Robotics"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "courses": [
+        "Operating Systems",
+        "Data Compression",
+        "Embedded Systems"
+      ],
+      "gpa": "",
+      "endDate": "2013-01-01",
+      "startDate": "2008-01-01",
+      "studyType": "",
+      "area": "France",
+      "institution": "EPITA"
+    },
+    {
+      "courses": [
+        "Game Programming",
+        "Identity Design",
+        "Trend Study"
+      ],
+      "gpa": "",
+      "endDate": "2013-04-01",
+      "startDate": "2013-01-01",
+      "studyType": "",
+      "area": "South Korea",
+      "institution": "Konkuk University"
+    },
+    {
+      "courses": [],
+      "gpa": "",
+      "endDate": "2007-01-01",
+      "startDate": "2006-01-01",
+      "studyType": "",
+      "area": "Australia",
+      "institution": "Ringwood Secondary College"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "C",
+        "C++",
+        "Ruby",
+        "Python",
+        "Javascript"
+      ],
+      "level": "",
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "CMake",
+        "git",
+        "svn",
+        "QML"
+      ],
+      "level": "",
+      "name": "Tools"
+    },
+    {
+      "keywords": [
+        "OpenGL",
+        "Ogre3D",
+        "SDL"
+      ],
+      "level": "",
+      "name": "Libraries/Frameworks"
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Native Speaker",
+      "language": "French"
+    },
+    {
+      "fluency": "Fluent",
+      "language": "English"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Board Games"
+    },
+    {
+      "name": "Surfing"
+    },
+    {
+      "name": "Magic"
+    },
+    {
+      "name": "Demoscene"
+    },
+    {
+      "keywords": [
+        "Nepal",
+        "Australia",
+        "Brasil",
+        "Indonesia",
+        "South Korea",
+        "Tanzania"
+      ],
+      "name": "Travels"
+    }
+  ],
+  "references": [
+    {
+      "reference": "He's OK I guess...",
+      "name": "Jeremy Tran"
+    }
+  ]
+}
