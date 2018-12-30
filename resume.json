@@ -24,10 +24,31 @@
         "url": "https://github.com/baptistemarchand",
         "username": "baptistemarchand",
         "network": "github"
+      },
+      {
+        "url": "https://gitlab.com/baptistemarchand42",
+        "username": "baptistemarchand42",
+        "network": "gitlab"
       }
     ]
   },
   "work": [
+    {
+      "highlights": [
+        "php",
+        "nodejs",
+        "typescript",
+        "javascript",
+        "mongodb",
+        "hhvm / hack"
+      ],
+      "summary": "Contributed to the development an ad tech SaaS platform managing millions of ads.",
+      "endDate": "",
+      "startDate": "2014-11-15",
+      "website": "www.makemereach.com",
+      "position": "Software Engineer",
+      "company": "MakeMeReach"
+    },
     {
       "highlights": [
         "C++",
@@ -62,7 +83,7 @@
         "CMake",
         "git"
       ],
-      "summary": "Designed, Implemented and tested complex embedded software",
+      "summary": "Designed, Implemented and tested embedded software",
       "endDate": "2011-12-01",
       "startDate": "2011-08-01",
       "website": "http://www.aldebaran.com/en",
@@ -115,17 +136,18 @@
         "C++",
         "Ruby",
         "Python",
-        "Javascript"
+        "Javascript",
+        "PHP",
+        "Typescript"
       ],
       "level": "",
       "name": "Programming Languages"
     },
     {
       "keywords": [
-        "CMake",
+        "docker",
         "git",
-        "svn",
-        "QML"
+        "shell scripting"
       ],
       "level": "",
       "name": "Tools"
@@ -151,6 +173,9 @@
     }
   ],
   "interests": [
+    {
+      "name": "Rock Climbing"
+    },
     {
       "name": "Board Games"
     },
